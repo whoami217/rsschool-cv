@@ -1,0 +1,27 @@
+html{
+    background: bisque;
+}
+
+main .contacts-title,
+main .brief_info-title{
+    margin-bottom: 0;
+}
+
+main .contacts{
+    margin-bottom: 40px;
+}
+
+main .contacts .contacts-text,
+main .brief_info .brief_info-name{
+    font-weight: bold;
+}
+
+main .brief_info .brief_info-blockquote{
+    border-left: 3px solid grey;
+    margin-left: 10px;
+    padding-left: 20px;
+    height: 20px;
+    color: grey;
+}
+
+

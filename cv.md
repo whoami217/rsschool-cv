@@ -33,3 +33,4 @@ Learning ability and motivation
 - BSc: Civil Engineering - 2014 at Sankt-Peterburg Polytechnical University
 
 **Languages:** English - A1
+
